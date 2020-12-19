@@ -1,0 +1,15 @@
+C:\Users\Milton\source\repos\RadixS\RadixS\bin\Debug\netcoreapp3.1\RadixS.exe
+C:\Users\Milton\source\repos\RadixS\RadixS\bin\Debug\netcoreapp3.1\RadixS.deps.json
+C:\Users\Milton\source\repos\RadixS\RadixS\bin\Debug\netcoreapp3.1\RadixS.runtimeconfig.json
+C:\Users\Milton\source\repos\RadixS\RadixS\bin\Debug\netcoreapp3.1\RadixS.runtimeconfig.dev.json
+C:\Users\Milton\source\repos\RadixS\RadixS\bin\Debug\netcoreapp3.1\RadixS.dll
+C:\Users\Milton\source\repos\RadixS\RadixS\bin\Debug\netcoreapp3.1\RadixS.pdb
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.csprojAssemblyReference.cache
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.csproj.GenerateResource.cache
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.AssemblyInfoInputs.cache
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.AssemblyInfo.cs
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.csproj.CoreCompileInputs.cache
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.dll
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.pdb
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.genruntimeconfig.cache
+C:\Users\Milton\source\repos\RadixS\RadixS\obj\Debug\netcoreapp3.1\RadixS.RadixS.resources
